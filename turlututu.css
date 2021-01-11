@@ -1,1 +1,52 @@
+/* controlling the menu */
+.menu{
+    margin: 25px;
+    color: white;
+    border-spacing:33px;
+    
+}
+
+/* control the background of the menu */
+.menuBackground{
+    
+    margin: 30px;
+    background-color: black;
+    padding-left: 10%;
+    padding-right: 50%;
+    
+}
+
+/*control the first part  */
+.backgroundFirstPart{
+    
+    margin: 30px;
+    background-color: rgb(70, 165, 255);
+    height: 300px;
+    
+}
+
+/*control the write on the firstPart  */
+.firstPart {
+
+    padding-left: 45%;
+    padding-top: 10%;
+    color: white;
+    
+}
+
+/* control de "button" */
+.buttonFirstPart{
+    background:#e9810b;
+    border:3px solid #DDDDCC;
+    width:300px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.secondPart{
+    padding-left: 45%;
+    color: black;
+}
+
+
 
