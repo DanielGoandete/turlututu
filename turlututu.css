@@ -24,6 +24,22 @@
     height: 300px;
     
 }
+/*control the background of thirty part  */
+.backgroundThirtyPart{
+    
+    margin: 30px;
+    background-color: rgb(70, 165, 255);
+    height: 350px;
+    
+}
+/*control the background of last part  */
+.backgroundlastPart{
+    
+    margin: 30px;
+    background-color: rgb(209, 218, 224);
+    height: 350px;
+    
+}
 
 /*control the write on the firstPart  */
 .firstPart {
@@ -43,10 +59,32 @@
     text-align: center;
 }
 
+/* control the second part */
 .secondPart{
     padding-left: 45%;
     color: black;
 }
+.text1234{
+    text-align: left; 
+    display:inline-block;
+}
 
+/* control text 1 */
+.text1{
+    color: white;
+}
 
+/* control text 2 */
+.text2{
+    color: white;
+}
+/* control text 3 */
+.text3{
+    
+    color: white;
+}
+/* control text 4 */
+.text4{
+    color: white;
+}
 
