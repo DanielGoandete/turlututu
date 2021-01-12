@@ -16,6 +16,23 @@
     
 }
 
+/* controlling the menuFooter */
+.menuFooter{
+    margin: 8px;
+    color: white;
+    
+    
+}
+/* control the background of the menuFooter */
+.menuFooterBackground{
+    
+    margin: 30px;
+    background-color: black;
+    padding-right: 50%;
+    
+}
+
+
 /*control the first part  */
 .backgroundFirstPart{
     
@@ -68,6 +85,10 @@
     text-align: left; 
     display:inline-block;
 }
+.pic1234Inline{
+    text-align: left; 
+    display:inline-block;
+}
 
 /* control text 1 */
 .text1{
@@ -87,4 +108,37 @@
 .text4{
     color: white;
 }
+/* control pic 1 */
+.pic1{
+    margin-top: 5%;
+    padding-left: 10%;
+}
+
+/* control pic 2 */
+.pic2{
+    
+}
+/* control pic 3 */
+.pic3{
+    
+}
+/* control pic 4 */
+.pic4{
+    
+}
+/* control pic 5 */
+.pic5{
+    
+}
+
+/* control pic 6 */
+.pic6{
+    
+}
+
+/* control pic 7 */
+.pic7{
+    padding-left: 43%;
+}
+
 
