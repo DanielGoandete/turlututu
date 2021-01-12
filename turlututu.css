@@ -1,8 +1,8 @@
 /* controlling the menu */
 .menu{
-    margin: 25px;
+    margin: 2px;
     color: white;
-    border-spacing:33px;
+    border-spacing:10px;
     
 }
 
@@ -127,24 +127,24 @@
 
 /* control pic 2 */
 .pic2{
-    
+    margin-left: 1%;
 }
 /* control pic 3 */
 .pic3{
-    
+    margin-left: 1%;
 }
 /* control pic 4 */
 .pic4{
-    
+    margin-left: 1%;
 }
 /* control pic 5 */
 .pic5{
-    
+    margin-left: 1%;
 }
 
 /* control pic 6 */
 .pic6{
-    
+    margin-left: 1%;
 }
 
 /* control pic 7 */
@@ -186,5 +186,10 @@
     padding:10px;
     cursor: pointer;
     display:inline-block;
+    color: white;
+}
+/* organize links without underline and with white color */
+.a{
+    text-decoration:none; 
     color: white;
 }
