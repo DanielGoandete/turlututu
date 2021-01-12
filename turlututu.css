@@ -96,7 +96,7 @@
 /* control text 1 */
 .text1{
     color: white;
-    margin-left: 3%;
+    margin-left: 7%;
     
 }
 
@@ -109,14 +109,16 @@
 .text3{
     
     color: white;
-    margin-left: 3%;
+    margin-left: 7%;
+    
     
 }
 /* control text 4 */
 .text4{
     color: white;
-    padding-left: 7%;
+    padding-left: 8%;
 }
+
 /* control pic 1 */
 .pic1{
     margin-top: 5%;
