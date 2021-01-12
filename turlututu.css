@@ -67,14 +67,17 @@
     
 }
 
-/* control de "button" */
+/* control de button firstPart */
 .buttonFirstPart{
     background:#e9810b;
     border:3px solid #DDDDCC;
     width:300px;
-    font-weight:bold;
+    font-weight:700;
     text-align: center;
+    padding:10px;
+    cursor: pointer;
 }
+
 
 /* control the second part */
 .secondPart{
@@ -93,20 +96,26 @@
 /* control text 1 */
 .text1{
     color: white;
+    margin-left: 3%;
+    
 }
 
 /* control text 2 */
 .text2{
     color: white;
+    padding-left: 5%;
 }
 /* control text 3 */
 .text3{
     
     color: white;
+    margin-left: 3%;
+    
 }
 /* control text 4 */
 .text4{
     color: white;
+    padding-left: 7%;
 }
 /* control pic 1 */
 .pic1{
@@ -141,4 +150,39 @@
     padding-left: 43%;
 }
 
-
+/* control de button firstPart */
+.button1LastPart{
+    background:#061277;
+    width:200px;
+    font-weight:700;
+    text-align: center;
+    padding:10px;
+    cursor: pointer;
+    display:inline-block;
+    color: white;
+    margin-top: 3%;
+    margin-left: 40%;
+    margin-bottom: 7%;
+}
+/* control de button firstPart */
+.button2LastPart{
+    background:#061277;
+    width:200px;
+    font-weight:700;
+    text-align: center;
+    padding:10px;
+    cursor: pointer;
+    display:inline-block;
+    color: white;
+}
+/* control de button firstPart */
+.button3LastPart{
+    background:#e9810b;
+    width:200px;
+    font-weight:700;
+    text-align: center;
+    padding:10px;
+    cursor: pointer;
+    display:inline-block;
+    color: white;
+}
